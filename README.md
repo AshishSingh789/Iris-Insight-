@@ -1,7 +1,7 @@
-   https://drive.google.com/file/d/1quztaz9dIwHOTwYHwk4n0rWU7r_R0sz1/view?usp=drive_link
+Data-set Link:-   https://drive.google.com/file/d/1quztaz9dIwHOTwYHwk4n0rWU7r_R0sz1/view?usp=drive_link
 
 
-   # IRIS-Insight
+# IRIS-Insight
 
 **Cataract Detection Using Deep Learning**
 
@@ -31,7 +31,7 @@ IRIS utilizes deep learning algorithms to analyze fundus images, following these
 ## Benefits
 - **Improved Eye Health Outcomes**: Early detection leads to better treatment options and reduced risk of blindness.
 - **Scalability**: Adaptable to various settings, from small clinics to large hospitals.
-- **Efficiency**: Saves time and resources for both patients and healthcare providers.
+- **Efficiency**: Saves patients' and healthcare providers' time and resources.
 
 
 
